@@ -11,5 +11,3 @@ SPACE_CADET_ENABLE = no
 
 # Custom QMK Features
 SRC += features/achordion.c
-ACHORDION_ENABLE = yes
-ACHORDION_STREAK = yes
